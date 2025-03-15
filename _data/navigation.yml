@@ -1,0 +1,18 @@
+# 主导航
+main:
+  - title: "首页"
+    url: /
+  - title: "作品风格"
+    url: /portfolio/
+    children:
+      - title: "情侣写真"
+        url: /portfolio/couples/
+      - title: "毕业季"
+        url: /portfolio/graduation/
+
+# 页脚导航
+footer:
+  - title: "服务条款"
+    url: /terms/
+  - title: "隐私政策"
+    url: /privacy/

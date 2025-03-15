@@ -1,0 +1,12 @@
+/* 品牌色配置 */
+$primary-color: #8AA899; // 主品牌色
+$link-color: #BF9270;    // 链接色
+$text-color: #333;       // 正文颜色
+
+/* 字体配置 */
+$global-font-family: "LXGW WenKai", "霞鹜文楷", sans-serif; // 中文字体
+$code-font-family: "Fira Code", monospace;
+
+/* 响应式断点 */
+$small: 600px !default;
+$medium: 768px !default;
